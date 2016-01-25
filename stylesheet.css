@@ -4,7 +4,7 @@ body {
 
 h1 p {
     font-family: Times;
-    size: 22px
+    font-size: 22px
 }
 h1 {
     border: 5px solid ;
@@ -52,4 +52,10 @@ left p {
     font-family: verdana;
     font-style: oblique;
     
+}
+#footer{
+    background: rgba(250,250,250,0.5);
+    clear: both;
+    text-align: center;
+    font-size: 18px;
 }
